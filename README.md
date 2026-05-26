@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Chandra 👋
 
-<!--
-**sudo-cs-dev/sudo-cs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Engineer** documenting my journey of learning AI deeply — starting with **building an LLM from scratch**.
 
-Here are some ideas to get you started:
+This GitHub is where I’ll keep the code, notes, experiments, and small projects from my learning journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- 🧠 LLM from scratch experiments
+- 🐍 Python + PyTorch learning projects
+- ⚙️ Data engineering utilities and demos
+- 📚 Clean notes from books, papers, and hands-on practice
+- 🎥 Code behind my learning reels and build-in-public content
+
+## Current focus
+
+**LLM From Scratch — Data Engineer Edition**
+
+I’m learning the internals of language models step by step:
+
+```text
+Text → Tokens → Embeddings → Attention → Transformer Blocks → GPT → Training → Fine-tuning
+```
+
+The goal is not just to use AI tools, but to understand how they work under the hood.
+
+## Tech I work with
+
+```text
+Python · SQL · PySpark · Databricks · Azure · Data Engineering · PyTorch · LLMs
+```
+
+
+
+## Connect
+
+- GitHub: [@sudo-cs-dev](https://github.com/sudo-cs-dev)
+- LinkedIn: [Chandra Shekhar Som](https://www.linkedin.com/in/c-shekhar1029/)
+
+---
+
+> Building in public. Learning deeply. Explaining simply.
