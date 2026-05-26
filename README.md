@@ -26,17 +26,35 @@ The goal is not just to use AI tools, but to understand how they work under the 
 
 ## Tech I work with
 
-```text
-Python · SQL · PySpark · Databricks · Azure · Data Engineering · PyTorch · LLMs
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,azure,pytorch,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 
 
 ## Connect
 
-- GitHub: [@sudo-cs-dev](https://github.com/sudo-cs-dev)
-- LinkedIn: [Chandra Shekhar Som](https://www.linkedin.com/in/c-shekhar1029/)
-- Instagram: [@sudo.cs_](https://www.instagram.com/sudo.cs_/)
+<p>
+  <a href="https://github.com/sudo-cs-dev">
+    <img src="https://img.shields.io/badge/GitHub-@sudo--cs--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/c-shekhar1029/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chandra%20Shekhar%20Som-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/sudo.cs_/">
+    <img src="https://img.shields.io/badge/Instagram-@sudo.cs__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
