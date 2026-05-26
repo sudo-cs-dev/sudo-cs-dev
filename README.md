@@ -36,6 +36,7 @@ Python · SQL · PySpark · Databricks · Azure · Data Engineering · PyTorch �
 
 - GitHub: [@sudo-cs-dev](https://github.com/sudo-cs-dev)
 - LinkedIn: [Chandra Shekhar Som](https://www.linkedin.com/in/c-shekhar1029/)
+- Instagram: [@sudo.cs_](https://www.instagram.com/sudo.cs_/)
 
 ---
 
